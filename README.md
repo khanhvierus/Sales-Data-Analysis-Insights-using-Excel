@@ -10,9 +10,9 @@ A company that operates in the commercial retail sector with a customer base spr
 
 •	Compare employee performance over the years.
 ### Data and tools used: 
-- Sales dataset which is available in file [Main_book.xlsx](Main_book.xlsx) and Shipping cost dataset to combined with which is [shipping cost - standard data.xlsx](shipping cost - standard data.xlsx)
+- Sales dataset which is available in file [Main_book.xlsx](Main_book.xlsx) and Shipping cost dataset to combined with 
 - Microsoft Excel : Power query , Pivot table , Charts 
-### Questions : 
+### Building Pivot tables to answer these questions : 
 #### Executive View: 
 1. Contribution of product categories in sales % ? 
 2. Top 5 states in terms of Net profit and Sales over years ? 
@@ -42,3 +42,5 @@ A company that operates in the commercial retail sector with a customer base spr
 ![Image](https://github.com/user-attachments/assets/5696a606-3bbd-4879-8f2e-35f9e167aa79)
 ![Image](https://github.com/user-attachments/assets/2f1c27ff-2789-4cde-a4e8-cf0de2d4b28a)
 ![Image](https://github.com/user-attachments/assets/24f1058f-d9f7-40fe-82bf-40dfa4f1afff)
+
+To see the whole process of this project , view [Main_book.xlsx](Main_book.xlsx)
