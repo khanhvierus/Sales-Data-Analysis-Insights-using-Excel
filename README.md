@@ -9,7 +9,9 @@ A company that operates in the commercial retail sector with a customer base spr
 •	Control shipping costs and evaluate the effectiveness of delivery methods.
 
 •	Compare employee performance over the years.
-
+### Data and tools used: 
+- Sales dataset which is available in file [Main_book.xlsx](Main_book.xlsx) and Shipping cost dataset to combined with which is [shipping cost - standard data.xlsx](shipping cost - standard data.xlsx)
+- Microsoft Excel : Power query , Pivot table , Charts 
 ### Questions : 
 #### Executive View: 
 1. Contribution of product categories in sales % ? 
@@ -27,11 +29,16 @@ A company that operates in the commercial retail sector with a customer base spr
 11. Which products are returned most often per each year?
 12. What is the returned rate by Ship Mode per each year?
 13. Name 5 customers have the most returns?
-Details for shipping cost:
+#### Details for shipping cost:
 14. Top 5 states which have the most shipping cost over years ? 
 15. Top 5 cities which have the most shipping cost over years ?
 16. Shipping cost by regions every year ? 
 17. What is the relationship between Shipping Cost and Net Profit by product category? 
-Details for managers: 
+#### Details for managers: 
 18. Show the performance of every managers per each year ? 
-
+### Dashboard: 
+![Image](https://github.com/user-attachments/assets/4f9ccf86-7f05-4ce1-9c51-fd47077d287d)
+![Image](https://github.com/user-attachments/assets/962ecbb6-6863-442c-bcd0-6f4bbd9f4b4d)
+![Image](https://github.com/user-attachments/assets/5696a606-3bbd-4879-8f2e-35f9e167aa79)
+![Image](https://github.com/user-attachments/assets/2f1c27ff-2789-4cde-a4e8-cf0de2d4b28a)
+![Image](https://github.com/user-attachments/assets/24f1058f-d9f7-40fe-82bf-40dfa4f1afff)
